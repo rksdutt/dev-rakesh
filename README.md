@@ -15,3 +15,4 @@ git remote -v
 git fetch
 git pull
 git push
+git clone
